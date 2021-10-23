@@ -1,0 +1,2 @@
+[how to check screen on/off status](https://stackoverflow.com/questions/19350258/how-to-check-screen-on-off-status-in-onstop)
+[Android foreground tutorial](https://www.youtube.com/watch?v=FbpD5RZtbCc&list=PLrnPJCHvNZuBhmqlWEQfvxbNtY6B_XJ3n&index=2)
